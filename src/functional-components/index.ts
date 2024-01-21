@@ -1,0 +1,1 @@
+export { PermissionsGate } from "./PermissionsGate";
